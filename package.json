@@ -12,7 +12,7 @@
         "template"
     ],
     "scripts": {
-    "start": "gulp"
+    "start": "gulp dev"
     },
     "homepage": "https://startbootstrap.com/template-overviews/creative",
     "bugs": {
